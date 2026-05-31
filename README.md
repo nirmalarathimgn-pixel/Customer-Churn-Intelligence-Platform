@@ -194,6 +194,27 @@ Customer-Churn-Intelligence-Platform
 
 └── README.md
 
+## Key Business Insights
+
+* Identified customer segments with the highest churn risk based on contract type, tenure, and service usage.
+* Analyzed customer lifetime value (CLV) to understand long-term revenue contribution.
+* Evaluated the impact of internet services, security features, and support plans on customer retention.
+* Discovered that customers on shorter contracts exhibit significantly higher churn rates compared to long-term subscribers.
+* Highlighted opportunities for improving retention through targeted customer engagement and service optimization.
+
+## Business Impact
+
+This analysis enables organizations to proactively identify at-risk customers, reduce customer attrition, improve retention strategies, and maximize customer lifetime value. The dashboard provides decision-makers with actionable insights to support data-driven business growth.
+
+## Technologies Used
+
+* Power BI (Dashboard Development & Data Visualization)
+* SQL (Data Analysis & Business Queries)
+* Python (Data Cleaning & Exploratory Data Analysis)
+* DAX (KPIs, Measures & Business Metrics)
+* Excel/CSV (Data Source Management)
+
+
 ---
 
 ## 👨‍💻 Author
