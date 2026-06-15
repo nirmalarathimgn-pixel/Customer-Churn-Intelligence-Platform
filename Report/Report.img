@@ -1,0 +1,80 @@
+# Customer Churn Intelligence Platform
+
+## Project Summary
+
+### Objective
+
+The objective of this project was to analyze customer behavior and identify factors responsible for customer churn. Customer churn directly impacts revenue and customer retention, making it a critical business challenge.
+
+---
+
+## Business Problem
+
+Telecom companies often lose customers due to pricing, service dissatisfaction, and contract-related issues. Management required a data-driven solution to understand churn patterns and improve retention strategies.
+
+---
+
+## Dataset Overview
+
+The dataset contained:
+
+* Customer ID
+* Gender
+* Senior Citizen Status
+* Tenure
+* Contract Type
+* Monthly Charges
+* Payment Method
+* Churn Status
+
+---
+
+## Solution Approach
+
+### Data Preparation
+
+* Removed missing values
+* Standardized data types
+* Performed data validation
+
+### Analysis
+
+* Churn Rate Analysis
+* Contract Analysis
+* Tenure Analysis
+* Revenue Impact Analysis
+
+### Dashboard Development
+
+Created an interactive Power BI dashboard to monitor churn-related KPIs and customer behavior.
+
+---
+
+## Key Business Insights
+
+* Customers with month-to-month contracts showed higher churn tendencies.
+* High monthly charges were associated with increased churn.
+* Long-tenure customers demonstrated stronger loyalty.
+* Certain payment methods exhibited higher churn rates.
+
+---
+
+## Business Impact
+
+* Improved customer retention strategy.
+* Identification of high-risk customer groups.
+* Enhanced understanding of churn drivers.
+
+---
+
+## Tools Used
+
+* SQL
+* Python
+* Power BI
+
+---
+
+## Conclusion
+
+The project successfully identified customer churn patterns and provided actionable insights that can support customer retention initiatives and revenue protection.
